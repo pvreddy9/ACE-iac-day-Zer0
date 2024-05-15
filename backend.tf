@@ -4,7 +4,7 @@ terraform {
     hostname = "app.terraform.io"
      organization = "Aviatrix-IAC-Labtest"
     workspaces {
-      name = "ace-iac-day-zero"
+      name = "cloudnetwork"
     }
   }
 }
